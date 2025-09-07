@@ -93,7 +93,7 @@ Inspired by the API 550B filter design and sonics of the API 2520 op-amp with so
 
 About Me — William Ashley
 
-I’m an electronic music producer and dedicated plugin developer, who currently is taking on making plugins that are inspired by classic analog equipment that defined early studio development. 
+I’m an electronic music producer and new plugin developer, who currently is taking on making plugins that are inspired by classic analog equipment that defined early studio development. 
 EQAlpha2 reflects my passion for crafting musical tools that sound great and foster creative workflows. It is not intended to be a clone of api but take some of the design principles and in this plugin I took some liberties to make it a little more flexible with qmode 
 and drive adjustment.
 
