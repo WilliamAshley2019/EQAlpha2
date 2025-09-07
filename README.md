@@ -1,4 +1,4 @@
-This is an Alpha release use at your own risk, it is provided GPLv3 license withuot warranty no assumed liability for enduse.
+This is an Alpha release use at your own risk, it is provided GPLv3 license withuot warranty no assumed liability for enduse. I have tested it and so far it is stable, report any bugs.
 
 EQAlpha2
 
