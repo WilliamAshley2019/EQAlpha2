@@ -57,7 +57,7 @@ Automate DRIVE or Q MODE for dynamic transitions or creative FX.
 
 For deeper analysis, test DSP behavior using Plugin Doctor or similar tools.
 
-Comparison: EQAlpha2 vs. EQAlpha1 & Other Plugins
+Comparison: EQAlpha2 vs. EQAlpha1 
 Plugin	Strengths
 EQAlpha1	Simple 3-band EQ with proportional Q and saturation—great for intuitive, musical mixing.
 EQAlpha2	Expanded 4-band control, DRIVE saturation, Q MODE flexibility, and advanced UI for more nuanced production needs.
