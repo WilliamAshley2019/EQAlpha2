@@ -103,6 +103,6 @@ Website: williamashley https://12264447666william.wixsite.com/williamashley
 
 YouTube: WilliamAshleyOnline https://www.youtube.com/@WilliamAshleyOnline
 
-Support: Buy Me a Coffee
+Support: Buy Me a Coffee https://buymeacoffee.com/williamashley
 
-Stay tuned for updates on EQAlpha2 and the upcoming EQAlpha3, featuring more creative filters and interactive UI enhancements.
+Stay tuned for updates on EQAlpha2 and the upcoming EQAlpha3, featuring more creative filters and interactive UI enhancements. I'm not entirely sure what it will just yet we will all need to wait and see.
