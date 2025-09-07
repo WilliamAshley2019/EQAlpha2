@@ -2,7 +2,8 @@ This is an Alpha release use at your own risk, it is provided GPLv3 license with
 
 EQAlpha2
 
-EQAlpha2 is a 4-band parametric VST3 equalizer plugin inspired by the revered API 550B, tailored for electronic music production. Crafted in JUCE 8.0.9 with the Steinberg VST3 SDK, EQAlpha2 blends analog warmth and modular tonal control—with features like saturation drive, proportional/fixed Q, and flexible shelf/peak toggles—into a sleek, modern plugin. Cross-platform compatible and tested in FL Studio 2025, Ableton Live, and Reaper.
+EQAlpha2 is a 4-band parametric VST3 equalizer plugin inspired by the revered API 550B, tailored for electronic music production. Crafted in JUCE 8.0.9 with the Steinberg VST3 SDK, EQAlpha2 blends analog warmth and modular tonal control—with features like saturation drive, proportional/fixed Q, and flexible shelf/peak toggles—into a sleek, modern plugin.  It is not intended to be a clone of api but take some of the design principles and in this plugin I took some liberties to make it a little more flexible with qmode 
+and drive adjustment. Cross-platform compatible and tested in FL Studio 2025, Ableton Live, and Reaper.
 
 Developed by William Ashley, a hobbyist producer and plugin developer, EQAlpha2 builds on the musical foundation of EQAlpha1 with expanded control and enhanced UI. Explore more of my journey at my Official Website
  or YouTube channel
@@ -94,8 +95,7 @@ Inspired by the API 550B filter design and sonics of the API 2520 op-amp with so
 About Me — William Ashley
 
 I’m an electronic music producer and new plugin developer, who currently is taking on making plugins that are inspired by classic analog equipment that defined early studio development. 
-EQAlpha2 reflects my passion for crafting musical tools that sound great and foster creative workflows. It is not intended to be a clone of api but take some of the design principles and in this plugin I took some liberties to make it a little more flexible with qmode 
-and drive adjustment.
+EQAlpha2 reflects my passion for crafting musical tools that sound great and foster creative workflows.
 
 Connect with my projects and sound design explorations:
 
